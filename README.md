@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Node js**
 
-- 💬 Ask me about **React,React Native,Next js & Spring Boot**
+- 💬 Ask me about **React,React Native,Next js,Node js & Spring Boot**
 
 - 📫 How to reach me **ujayaweera738@gmail.com**
 
